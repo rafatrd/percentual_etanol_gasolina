@@ -1,5 +1,3 @@
-# percentual_etanol_gasolina
-# percentual etanol gasolina
 #include <stdio.h>
 #include <stdlib.h>
 
