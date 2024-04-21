@@ -11,7 +11,7 @@ int main(int argc, char *argv[]) {
 	printf("Qual o valor atual do etanol? ");
 	scanf("%f", &etanol );
 	
-	printf("Quala o valor atual da gasolina? ");
+	printf("Qual o valor atual da gasolina? ");
 	scanf("%f", &gasolina);
 	
 	//calculo do etanol e gasolina 
